@@ -2,7 +2,7 @@
 
 - line 1 - bugfix here
 - line 2 - main / feature 2
-- line 3
+- line 3 - bad bugfix here
 - line 4
 - line 5 - feature 1
 - line 6 - feature 1
