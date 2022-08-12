@@ -1,6 +1,6 @@
 # gl-git-lesson
 
-- line 1 - bug here
+- line 1 - bugfix here
 - line 2 - main / feature 2
 - line 3
 - line 4
